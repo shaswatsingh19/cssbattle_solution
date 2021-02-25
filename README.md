@@ -1,2 +1,2 @@
 # cssbattle_solution
-Trying to do css challenges on [CSSBATTLE](https://cssbattle.dev/)
+Solution of css Challenges on [CSSBATTLE](https://cssbattle.dev/)
