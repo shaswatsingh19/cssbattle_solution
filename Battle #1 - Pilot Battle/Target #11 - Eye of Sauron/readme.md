@@ -1,4 +1,4 @@
-# [Target #2 - Carrom](https://cssbattle.dev/play/2)
+# [Target #11 - Eye of Sauron](https://cssbattle.dev/play/11)
 
-![](https://cssbattle.dev/targets/2.png)
+![](https://cssbattle.dev/targets/11.png)
 
